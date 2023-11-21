@@ -1,0 +1,10 @@
+
+.banner{
+background-color:aqua;width: fixed; height:100px;margin-bottom:50px;background-image:
+}
+.banner-text{
+    color:red;
+    top:50%;
+    left:50%;
+    position:relative;
+}
